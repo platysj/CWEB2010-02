@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXAG4q7VotziRorFP2EswowMg4PtSJ9PQ4wM+a6PX5rNUePyWluqwKjBRP6GkCC7Sdq4qtadK2q0bhwzFJFE5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyson\\source\\repos\\Project3Solution\\GameInfo\\GameInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tyson\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\bin\Debug\netstandard2.0\GameInfo.deps.json
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\bin\Debug\netstandard2.0\GameInfo.dll
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\bin\Debug\netstandard2.0\GameInfo.pdb
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\obj\Debug\netstandard2.0\GameInfo.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\obj\Debug\netstandard2.0\GameInfo.AssemblyInfoInputs.cache
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\obj\Debug\netstandard2.0\GameInfo.AssemblyInfo.cs
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\obj\Debug\netstandard2.0\GameInfo.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\obj\Debug\netstandard2.0\GameInfo.dll
+C:\Users\tyson\source\repos\Project3Solution\GameInfo\obj\Debug\netstandard2.0\GameInfo.pdb
